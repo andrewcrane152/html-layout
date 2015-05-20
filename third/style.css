@@ -1,0 +1,56 @@
+html, body {
+	width: 100%;
+	margin: 0;
+}
+
+.top {
+	background-color: #dbe3e3;
+	height: 100px;
+	margin: 0;
+}
+
+	div.top div {
+		height: 60px;
+		width: 60px;
+		background-color: #3f8bf4;
+		margin-left: 5%;
+		margin-top: 20px;
+		float: left;
+	}
+
+.text {
+	background-color: white;
+	border: 0;
+	margin: 0;
+	padding: 5%;
+}
+
+.first {
+		background-color: #3f8bf4;
+		height: 100px;
+		margin: 0;
+}
+
+.second {
+		background-color: #65e2e5;
+		height: 100px;
+		margin: 0;
+	}
+
+.third {
+		background-color: #cfe7d9;
+		height: 100px;
+		margin: 0;
+}
+
+.fourth {
+		background-color: #f3f43f;
+		height: 100px;
+		margin: 0;
+}
+
+.fifth {
+		background-color: #f0f0f0;
+		height: 100px;
+		margin: 0;
+	}

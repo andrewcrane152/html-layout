@@ -1,0 +1,48 @@
+html, body {
+	width: 100%;
+	margin: 0;
+	background-color: #767373;
+}
+
+.header {
+	background-color: #454444;
+	height: 100px;
+}
+
+.left {
+	background-color: #767373;
+	width: 10%;
+	height: 800px;
+	border: 0;
+	float: left;
+	margin: 0 auto;
+}
+
+.right {
+	background-color: #767373;
+	width: 10%;
+	height: 800px;
+	border: 0;
+	float: right;
+	margin: 0 auto;
+}
+
+.main {
+	background-color: white;
+	width: 80%;
+	height: 800px;
+	border: 0;
+	float: center;
+	margin: 0 auto;
+}
+
+	.info {
+		height: 700px;
+	}
+	.footer {
+		position: absolute;
+		background-color: #515050;
+		bottom: 0;
+		height: 100px;
+		width: 80%;
+	}

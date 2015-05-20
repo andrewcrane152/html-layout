@@ -1,0 +1,49 @@
+html, body {
+	width: 100%;
+	margin: 0;
+
+}
+
+.left {
+	background-color: #5d92b2;
+	width: 33%;
+	height: 800px;
+	border: 0;
+	float: left;
+	margin: 0;
+}
+
+.middle {
+	background-color: #5ac7c3;
+	width: 33%;
+	height: 800px;
+	border: 0;
+	float: left;
+	margin: 0;
+}
+
+.right {
+	background-color: #333;
+	width: 33%;
+	border: 0;
+	float: left;
+	margin: 0;
+}
+
+	.somethin {
+		background-color: #00ff00;
+		height: 600px;
+	}
+	.info {
+		height: 200px;
+		margin: 0;
+		background-color: #f02b2b;
+		text-align: center;
+		color: white;
+		padding-top: 80px;
+		font-family: sans-serif;
+		font-size: 18px;
+		font-weight: bold;
+	}
+
+	
